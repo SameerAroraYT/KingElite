@@ -4,7 +4,7 @@
         "url": "https:\/\/raw.githubusercontent.com\/SameerAroraYT\/KingElite\/main\/KingMod_installer.apk"
     },
     "announce_ttl": {
-        "name": "Welcome to KingMod, click here to join our telegram channel for more announcements.",
+        "name": "Welcome to KingMod, click here to join our telegram channel for more announcements",
         "version": "1"
     },
     "custom_notification": {
@@ -28,7 +28,7 @@
     },
     "ismaintenance": {
         "version": "",
-        "name": "true"
+        "name": "false"
     },
     "libpg32NativeArm_v8a.so": {
         "version": "1.0.0",
