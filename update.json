@@ -8,9 +8,9 @@
         "version": "1"
     },
     "custom_notification": {
-        "title": "hello from monster",
-        "message": "this is test notification, hope u guys are enjoying kingmod",
-        "version": "2"
+        "title": "hello from kingmod",
+        "message": "this is again second test.",
+        "version": "3"
     },
     "statusKingMod-XRay": {
         "name": "Safe"
