@@ -8,8 +8,8 @@
         "version": "1"
     },
     "custom_notification": {
-        "title": "KingMod Notice",
-        "message": "Check out our latest update in the loader app.",
+        "title": "",
+        "message": "",
         "version": "1"
     },
     "statusKingMod-XRay": {
