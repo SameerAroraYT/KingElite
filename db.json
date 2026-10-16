@@ -11,6 +11,10 @@
         "sameer": {
             "password": "SameerAroraYT",
             "expiry": "2027-12-31 23:59:59"
+        },
+        "king": {
+            "password": "mod",
+            "expiry": "2026-10-17 23:59:00"
         }
     }
 }
