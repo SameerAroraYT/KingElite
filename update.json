@@ -8,9 +8,9 @@
         "version": "1"
     },
     "custom_notification": {
-        "title": "",
-        "message": "",
-        "version": ""
+        "title": "King Mod - Admin",
+        "message": "Hello 👋 Users, We hope you guys having great experience by using our product, if any issue report to Admins ASAP.",
+        "version": "1"
     },
     "statusKingMod-XRay": {
         "name": "Safe"
