@@ -1,6 +1,6 @@
 {
     "loader":{
-        "version": "1.4",
+        "version": "1.0",
         "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/KingMod_installer.apk"
     },
     "announce_ttl": {
@@ -19,7 +19,7 @@
         "name": "unsafe"
     },
     "plugin": {
-        "version": "1.1.0",
+        "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/plugin.apk"
     },
     "plugin64": {
