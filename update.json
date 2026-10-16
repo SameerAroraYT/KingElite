@@ -1,10 +1,16 @@
 {
     "loader":{
-        "version": "1.0",
+        "version": "1.4",
         "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/KingMod_installer.apk"
     },
     "announce_ttl": {
-        "name": "Welcome to KingMod, click here to join our telegram channel for more announcements"
+        "name": "Welcome to KingMod, click here to join our telegram channel for more announcements",
+        "version": "1"
+    },
+    "custom_notification": {
+        "title": "KingMod Notice",
+        "message": "Check out our latest update in the loader app.",
+        "version": "1"
     },
     "statusKingMod-XRay": {
         "name": "Safe"
@@ -13,7 +19,7 @@
         "name": "unsafe"
     },
     "plugin": {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/plugin.apk"
     },
     "plugin64": {
@@ -34,10 +40,10 @@
     },
     "libpg64NativeArm_v8a.so": {
         "version": "1.0.0",
-        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/liblibpg64-lib"
+        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/liblibpg-lib"
     },
    "libpg64NativeArm_v7a.so": {
         "version": "1.0.0",
-        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/liblibpg64-lib"
+        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/liblibpg-lib"
     }
 }
