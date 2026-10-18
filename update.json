@@ -1,7 +1,7 @@
 {
     "loader": {
         "version": "1.0",
-        "url": "https:\/\/raw.githubusercontent.com\/SameerAroraYT\/KingElite\/main\/KingMod_installer.apk"
+        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/KingMod_installer.apk"
     },
     "announce_ttl": {
         "name": "Welcome to KingMod, click here to join our telegram channel for more announcements",
@@ -10,40 +10,29 @@
     "custom_notification": {
         "title": "",
         "message": "",
-        "version": ""
+        "version": "1"
     },
     "statusKingMod-XRay": {
         "name": "Safe"
     },
-    "status64bit": {
-        "name": "unsafe"
-    },
     "plugin": {
         "version": "1.0.0",
-        "url": "https:\/\/raw.githubusercontent.com\/SameerAroraYT\/KingElite\/main\/plugin.apk"
-    },
-    "plugin64": {
-        "version": "1.0.6",
-        "url": "https:\/\/raw.githubusercontent.com\/SameerAroraYT\/KingElite\/main\/plugin64.apk"
+        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/plugin.apk"
     },
     "ismaintenance": {
         "version": "",
         "name": "false"
     },
-    "libpg32NativeArm_v8a.so": {
+    "bcore_sandbox": {
         "version": "1.0.0",
-        "url": "https:\/\/raw.githubusercontent.com\/SameerAroraYT\/KingElite\/main\/liblibpg-lib"
+        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/sandbox"
     },
-    "libpg32NativeArm_v7a.so": {
+    "bcore_pine": {
         "version": "1.0.0",
-        "url": "https:\/\/raw.githubusercontent.com\/SameerAroraYT\/KingElite\/main\/liblibpg-lib"
+        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/pine"
     },
-    "libpg64NativeArm_v8a.so": {
+    "libkingmod": {
         "version": "1.0.0",
-        "url": "https:\/\/raw.githubusercontent.com\/SameerAroraYT\/KingElite\/main\/liblibpg-lib"
-    },
-    "libpg64NativeArm_v7a.so": {
-        "version": "1.0.0",
-        "url": "https:\/\/raw.githubusercontent.com\/SameerAroraYT\/KingElite\/main\/liblibpg-lib"
+        "url": "https://raw.githubusercontent.com/SameerAroraYT/KingElite/main/kingmod"
     }
 }
